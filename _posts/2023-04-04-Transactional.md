@@ -21,9 +21,13 @@ author_profile: false
 Dao에서 Connection을 얻거나 반환 할 때 DataSourceUtils를 사용한다.
 
 - TxM 설정코드
+
+
 <img src= "https://dsm04pap002files.storage.live.com/y4meixuheF46pavA4Uq1adHjeIOSurNCQ5WJ8ioWheO7CF8O7Y13QIdKa5mFDure3ROwlpvjxQ6AU-XtxiqiocbrZzR-RMWs6gx_zn0C-HQSQxSSrFjzf7STKJ-XJO22SLlNxg6hmzOAxdftsVVC6smHASpOSNAWhQj_vRgDISdzX-hGsmUwD-_UB4uAL7oy9fY?width=746&height=468&cropmode=none">
 
 - TxM 적용
+
+
 <img src= "https://dsm04pap002files.storage.live.com/y4mGkKoAU3OqQifEjgjefk8hkxXkuLwAjIK5VAjym2q4vbeBfvuXy6DZvFOxb8aapyEl2LdYDGDC4whxqHzk5xGwJSLJDcXF36_579JEiMZXEB-bEAA1SC5-UiqVxVWR5Mk28OON22JN2D4hrT1tBxJXXRuaTcP4Py-KZPAXzaQxtOgb9JQFn8m9grqieXb0R3Y?width=1081&height=474&cropmode=none">
 
 TxM로 Tx를 적용하면
@@ -55,8 +59,16 @@ TxM을 사용하기 위해 앞에서와 같이 코드를 작성하는 방법도 
 <img src= "https://dsm04pap002files.storage.live.com/y4md0bMclmTWT6RpHoYYfXFw41NM3DigHHDixMk3RGJpVcXX0CKBaniX3dOcqjDGc-wh4XTbV8GF7_OcO_hwdmH0EPY8vS_L2Tqh-rcLD3FgKDL-hMOpaPfHN618OMYMf-X9eXhzJDU1p309uUPf2_QNgkYSq6gHx-NThshkmTKvVGGjzWSx9lcBMn98P2Ubshz?width=1069&height=385&cropmode=none">
 
 - REQUIRED
+
+
 <img src= "https://dsm04pap002files.storage.live.com/y4mkdKozB1DDnn02wDE7Qhal2VIFt13ixx_JN2clR58MYNx2blD7xTP_0o1y9r8vBXH2zofwLwxQE8e-uVuaO0GGhIRHFybqbzu1WGZSfQzxBbYt9aEEEASYLIX0IoxC8WiPFa2fs6nX3AWZ_BlW2aGYD_XMlPQ1RPXAJokMJcPtcOhZoiiOsvYcfOrUu0Ufde4?width=1036&height=609&cropmode=none">
 
 - REQUIRES_NEW
+
+
 <img src= "https://dsm04pap002files.storage.live.com/y4micTVJDnEQVrIqHzpDJLoj1AnzSXmEyYB-8IGMrceJTiOOve6R1IjKz6Q0PGUE7GMEKrJLYbMMngWQa9BV2sNVPTqrkt6VfztM18WFTELivktkqeU2ZJKKAkD4p2c-SxKYVitbMxBqUUW_vyR9jQkEUeMh5vocIXXf9_y6YNtokm4-bRbyN93u-6tqurIfXtL?width=980&height=611&cropmode=none">
+
+---
+출처   
+스프링의 정석 : 남궁성과 끝까지 간다(패스트 캠퍼스 강좌)
 
