@@ -1,12 +1,12 @@
 ---
 layout: single
 title:  "@Transactional"
-categories: SpringDI와 AOP
+categories: AOP
 tags: [Spring, Transactional, AOP]
 toc: true
 author_profile: false
 ---
-<img src= "https://dsm04pap002files.storage.live.com/y4mi-yG9sv4ejf90VrMmM0AlZwQ2175acolPg3VMnjVhL0zNNA1XU-2gP5QNuflcpy8TJGMbH0vTXAf9jwnXFdeOuLKgMe-QwPXlZVcGWKj53jouRROvzIT0rdig_hAepxVQbGtE46GNubBeUTJGHZzEONXQoaIER4pbx3Cx4lv8gtRtzCm_gilLtMx8Hsx4UeU?width=512&height=268&cropmode=none">
+
 
 # 1.TransactionManager
 <img src= "https://dsm04pap002files.storage.live.com/y4m28EwmPmtZmwKnnoW1aIQDJUKQ8Iz4EjaC6hdBhWyHnW5h66UNNsjLUGurMy5io7A-RXT_c8QtH4SR8S3t7J3ZKeJBUd2VKmvRQmPgID0xbLEBap7OHudZNDADVCl7bGm6OVkhAdA12lD2cUZ9WfyOGiOYdk7D7ykmTRZtaksBnxTSEKqcD-kav-By6ruasGc?width=617&height=412&cropmode=none">
