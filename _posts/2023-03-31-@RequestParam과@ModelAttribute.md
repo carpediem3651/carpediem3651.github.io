@@ -9,7 +9,7 @@ sidebar:
     nav: "docs"
 --- 
 
-<img src= "https://dsm04pap002files.storage.live.com/y4mi-yG9sv4ejf90VrMmM0AlZwQ2175acolPg3VMnjVhL0zNNA1XU-2gP5QNuflcpy8TJGMbH0vTXAf9jwnXFdeOuLKgMe-QwPXlZVcGWKj53jouRROvzIT0rdig_hAepxVQbGtE46GNubBeUTJGHZzEONXQoaIER4pbx3Cx4lv8gtRtzCm_gilLtMx8Hsx4UeU?width=512&height=268&cropmode=none">
+
 
 # 1.@RequestParam
  @RequestParam은 요청 URL의 파라미터를 연결할 메서드의 매개변수에 붙이는 애너테이션이다. 
@@ -27,7 +27,7 @@ sidebar:
 @RequestParam의 매개변수 required의 값이 true면 @RequestParam은 생략이 불가능하다. HTTP요청을 통해 확인해보면 그림에서 보이는 바와 같이 year값이 null일 경우 요청값이 잘못됐기 때문에 400 Bad Request 즉, 클라이언트 오류가 발생한다. 
 
 # 2.@ModelAttribute
-@ModelAttirbute는 애너테이션이 적용된 대상을 Model의 속성으로 자동 추가해주는 애너테이션이다. @ModelAttribute는 반환 타입 또는 컨트롤러 메서드의 매개변수에 적용가능하다.
+@ModelAttirbute는 애너테이션이 적용된 대상을 Model의 속성으로 자동 추가해주는 애너테이션이다. @ModelAttribute는 반환 타입 또는 컨트롤러 메서드의 매개변수에 적용가능하다. int형과 같은 기본형 타입은 Model객체로 담기지 않는데 @ModelAttribute를 사용하여 강제로 객체로 담을 수 있다.
 
 ## 2.1 매개변수에 적용
 <img src= "https://dsm04pap002files.storage.live.com/y4mOWFZ1_lAEVRsMWIeG4aRIukThcfUj82z9xoXSACGaUkkK1cu4563IsCgCEgACYPY2I69R4q8v9-aKGEPgGOVmuXwuWJF9JgQH7ugHG_hhcBRw02vK1OiTwL9t8tACWYAMzf4CBMpyf_iOwKCobyBNCkY4c_pQ9TNsDDZ9aXjiEgT5GvhlO9diLb7TsrhihDM?width=1084&height=431&cropmode=none">
